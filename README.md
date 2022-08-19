@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile. My name is Scott, I'm a Computer Science graduate and an aspiring software developer. Check out some of the personal and school projects I've worked on below. Thanks for visiting.
+
+## 🌱 I’m currently learning
+- Rust Programming Language
+- The Odin Project
