@@ -30,5 +30,5 @@ Reading various programming books for interview prep and to be a better programm
 - Code Complete | Steve McConnell
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Ti-informational?style=flat-square&logo=linkedin&logoColor=white)] (www.linkedin.com/in/scott-ti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Ti-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-ti)
 [![Gmail](https://img.shields.io/badge/Gmail-scott.ti312@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:scott.ti312@gmail.com?subject=Hey!)
