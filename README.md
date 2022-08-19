@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring software developer. Check out some of the personal and school projects I pinned below. Thanks for visiting.
+Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring software developer. Check out some of the personal and school projects I pinned below. Feel free to contact me through the methods below.
 
 ## 🌱 I’m currently learning
 - Rust Programming Language
