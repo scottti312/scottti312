@@ -4,7 +4,8 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 
 ## 🌱 I’m currently learning
 - Rust Programming Language
-- The Odin Project
+- Full Stack Web Dev at The Odin Project
+- Integrating Webpack
 
 ## 🔭 I’m currently working on
 GETTING A JOB!!
