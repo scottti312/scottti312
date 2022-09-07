@@ -6,6 +6,7 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 - Rust Programming Language
 - Full Stack Web Dev at The Odin Project
 - Integrating Webpack
+- Technical interview questions
 
 ## 🔭 I’m currently working on
 GETTING A JOB!!
