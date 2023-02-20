@@ -6,11 +6,10 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 - Rust Programming Language
 - Full Stack Web Dev at The Odin Project
 - Integrating Webpack
-- Technical interview questions
+- Technical and behavioral interview questions
 
 ## 🔭 I’m currently working on
-GETTING A JOB!!
-Reading various programming books for interview prep and to be a better programmer.
+Web development and leetcode. I'm also reading various programming books for interview prep and to be a better programmer. Below are some of the books I've read or currently reading.
 - Cracking the Coding Interview | Gayle Laakmann McDowell
 - Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin 
 - The Clean Coder: A Code of Conduct for Professional Programmers | Robert C. Martin
