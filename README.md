@@ -15,6 +15,9 @@ Web development and leetcode. I'm also reading various programming books for int
 - The Clean Coder: A Code of Conduct for Professional Programmers | Robert C. Martin
 - Code Complete | Steve McConnell
 
+My most recent in-progress project is Sticker Avenue, just the frontend for now, though I may fully implement backend later on.
+Check it out [here!](https://scottti312.github.io/sticker-avenue/)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Ti-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-ti)
 [![Gmail](https://img.shields.io/badge/Gmail-scott.ti312@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:scott.ti312@gmail.com?subject=Hey!)
