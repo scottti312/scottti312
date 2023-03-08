@@ -5,8 +5,7 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 ## 🌱 I’m currently learning
 - Rust Programming Language
 - Full Stack Web Dev at The Odin Project
-- Redux
-- Firebase / Google Cloud
+- Node.js
 - Technical and behavioral interview questions
 
 ## 🔭 I’m currently working on
