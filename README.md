@@ -6,6 +6,7 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 - Rust Programming Language
 - Full Stack Web Dev at The Odin Project
 - Node.js
+- Going in-depth with MongoDB
 - Technical and behavioral interview questions
 
 ## 🔭 I’m currently working on
