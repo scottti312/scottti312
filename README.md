@@ -7,7 +7,6 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 - Full Stack Web Dev at The Odin Project
 - Node.js
 - Express
-- Going in-depth with MongoDB
 - Technical and behavioral interview questions
 
 ## 🔭 I’m currently working on
