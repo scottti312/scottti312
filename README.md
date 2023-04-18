@@ -11,10 +11,7 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 
 ## 🔭 I’m currently working on
 Web development and leetcode. I'm also reading various programming books for interview prep and to be a better programmer. Below are some of the books I've read or currently reading.
-- Cracking the Coding Interview | Gayle Laakmann McDowell
-- Clean Code: A Handbook of Agile Software Craftsmanship | Robert C. Martin 
-- The Clean Coder: A Code of Conduct for Professional Programmers | Robert C. Martin
-- Code Complete | Steve McConnell
+- Clean Architecture | Robert C. Martin
 
 My most recent in-progress project is Sticker Avenue.
 Check it out [here!](https://sticker-avenue.web.app)
