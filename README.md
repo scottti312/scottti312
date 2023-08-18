@@ -22,8 +22,8 @@ Web development and leetcode. I'm also reading various programming books for int
 📖 Cracking the Coding Interview | Gayle Laakmann McDowell
 
 
-My most recent in-progress project is Sticker Avenue.
-Check it out [here!](https://sticker-avenue.web.app)
+My most recent in-progress project is my portfolio website.
+Check it out [here!](https://www.scottti.dev/)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Scott_Ti-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scott-ti)
