@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring software developer. Check out some of the personal and school projects I pinned below. Feel free to contact me through the methods below.
+Welcome! My name is Scott, I'm a software engineer. Check out some of the personal and school projects I pinned below. Feel free to contact me through the methods below.
 
 ## 🌱 I’m currently learning
 - Rust Programming Language
@@ -9,7 +9,7 @@ Welcome! My name is Scott, I'm a Computer Science graduate and an aspiring softw
 - Technical and behavioral interview questions
 
 ## 🔭 I’m currently working on
-Web development and leetcode. I'm also reading various programming books for interview prep and to be a better programmer. Below are some of the books I've read or currently reading.
+Being a software engineer. I'm also reading various programming books to hopefully be a better programmer. Below are some of the books I've read or currently reading.
 
 ✔️ Clean Architecture | Robert C. Martin
 
