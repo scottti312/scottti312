@@ -6,10 +6,9 @@ Welcome! My name is Scott, I'm a software engineer. Check out some of the person
 - Rust Programming Language
 - Full Stack Web Dev at The Odin Project
 - Svelte/Sveltekit
-- Technical and behavioral interview questions
-
+  
 ## 🔭 I’m currently working on
-Being a software engineer. I'm also reading various programming books to hopefully be a better programmer. Below are some of the books I've read or currently reading.
+Improving as a software engineer. Below are some of the books I've read or currently reading.
 
 ✔️ Clean Architecture | Robert C. Martin
 
