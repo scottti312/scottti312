@@ -4,8 +4,9 @@ Welcome! My name is Scott, I'm a software engineer. Check out some of the person
 
 ## 🌱 I’m currently learning
 - Rust Programming Language
-- Full Stack Web Dev at The Odin Project
 - Svelte/Sveltekit
+- GitLab CI/CD
+- Docker/Kubernetes
   
 ## 🔭 I’m currently working on
 Improving as a software engineer. Below are some of the books I've read or currently reading.
@@ -21,7 +22,7 @@ Improving as a software engineer. Below are some of the books I've read or curre
 📖 Cracking the Coding Interview | Gayle Laakmann McDowell
 
 
-My most recent in-progress project is my portfolio website.
+My most recent personal project is my portfolio website.
 Check it out [here!](https://www.scottti.dev/)
 
 ## 📫 How to reach me:
